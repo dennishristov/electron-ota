@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "aws-sdk": "2.376.0",
-    "axios": "0.19.0",
+    "axios": "0.21.2",
     "bind-decorator": "1.0.11",
     "inversify": "4.13.0",
     "inversify-inject-decorators": "3.1.0",
